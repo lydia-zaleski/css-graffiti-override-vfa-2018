@@ -22,11 +22,12 @@
   display: none;
 }
 
-#wall .parent #tag-5 {
+#wal .parent .last-child #tag-5 {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: none;
 }
+
 
 
 
