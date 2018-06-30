@@ -15,11 +15,12 @@
   display: none;
 }
 
-#wall.wicked #tag-4 {
+#wall .parent  #tag-4:first-child {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
 }
+
 
 
 
