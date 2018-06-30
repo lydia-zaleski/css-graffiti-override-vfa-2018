@@ -16,13 +16,13 @@
 }
 
 
-#wall #tag-4 {
+#wall .last-child #tag-4 {
   background: url(../images/tag-4.png) no-repeat;
   z-index: 4;
   display: none;
 }
 
-#wall .parent .last-child #tag-5 {
+#wall .parent #tag-5 {
   background: url(../images/tag-5.png) no-repeat;
   z-index: 3;
   display: none;
